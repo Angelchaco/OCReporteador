@@ -1,0 +1,20 @@
+D:\Users\alvar\source\repos\reporteador\bin\Debug\reporteador.exe.config
+D:\Users\alvar\source\repos\reporteador\bin\Debug\reporteador.exe
+D:\Users\alvar\source\repos\reporteador\bin\Debug\reporteador.pdb
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.csproj.AssemblyReference.cache
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.Properties.Resources.resources
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.reporteador.resources
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.csproj.GenerateResource.cache
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.csproj.CoreCompileInputs.cache
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.exe
+D:\Users\alvar\source\repos\reporteador\obj\Debug\reporteador.pdb
+C:\Users\jfeli\2 Fase\reporteador\bin\Debug\reporteador.exe.config
+C:\Users\jfeli\2 Fase\reporteador\bin\Debug\reporteador.exe
+C:\Users\jfeli\2 Fase\reporteador\bin\Debug\reporteador.pdb
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.csproj.AssemblyReference.cache
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.Properties.Resources.resources
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.reporteador.resources
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.csproj.GenerateResource.cache
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.csproj.CoreCompileInputs.cache
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.exe
+C:\Users\jfeli\2 Fase\reporteador\obj\Debug\reporteador.pdb
