@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
+using System.Data.Odbc;
+
 namespace reporteador
 {
     public partial class reporteador : Form
@@ -21,7 +23,17 @@ namespace reporteador
 
         private void button1_Click(object sender, EventArgs e)
         {
+            GuardarRuta();
+            txtapellidos.Text = "";
+        }
 
+        void GuardarRuta()
+        {
+            string cadena = "INSERT INTO ruta (id, ruta, estado) " +
+            "VALUES (0, '" + txtapellidos.Text + "', '1');";
+            OdbcCommand consulta = new OdbcCommand(cadena, cn.conexion());
+            consulta.ExecuteNonQuery();
+            MessageBox.Show("Reporte Guardado");
         }
 
         private void btnRuta_Click(object sender, EventArgs e)
