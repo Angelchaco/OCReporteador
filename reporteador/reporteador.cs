@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.Data.Odbc;
+using System.IO;
 
 namespace reporteador
 {
@@ -64,6 +65,27 @@ namespace reporteador
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
+            string ruta = @"D:\Users\Emanuel\Documents\Prueba.txt";
+            try
+            {
+                bool result = File.Exists(ruta);
+                if (result == true)
+                {
+                    MessageBox.Show("Archivo Encontrado");
+                    File.Delete(ruta);
+                    MessageBox.Show("Archivo Eliminado Exitosamente");
+                }
+                else
+                {
+                    MessageBox.Show("Archivo No Encontrado");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al borrar archivo: {0}", ex.ToString());
+            }
+            Console.WriteLine("Presiona Enter para terminar.");
+            var name = Console.ReadLine();
 
         }
 
