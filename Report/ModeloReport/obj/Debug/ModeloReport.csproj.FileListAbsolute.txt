@@ -1,0 +1,6 @@
+C:\Users\alvar\source\repos\Report\ModeloReport\bin\Debug\ModeloReport.dll
+C:\Users\alvar\source\repos\Report\ModeloReport\bin\Debug\ModeloReport.pdb
+C:\Users\alvar\source\repos\Report\ModeloReport\obj\Debug\ModeloReport.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Report\ModeloReport\obj\Debug\ModeloReport.dll
+C:\Users\alvar\source\repos\Report\ModeloReport\obj\Debug\ModeloReport.pdb
+C:\Users\alvar\source\repos\Report\ModeloReport\obj\Debug\ModeloReport.csproj.AssemblyReference.cache

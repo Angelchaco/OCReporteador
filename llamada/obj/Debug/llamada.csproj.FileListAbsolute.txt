@@ -1,0 +1,16 @@
+C:\Users\alvar\source\repos\llamada\bin\Debug\llamada.exe.config
+C:\Users\alvar\source\repos\llamada\bin\Debug\llamada.exe
+C:\Users\alvar\source\repos\llamada\bin\Debug\llamada.pdb
+C:\Users\alvar\source\repos\llamada\bin\Debug\CapaVista.dll
+C:\Users\alvar\source\repos\llamada\bin\Debug\CapaVista.pdb
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.Properties.Resources.resources
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.csproj.CopyComplete
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.exe
+C:\Users\alvar\source\repos\llamada\obj\Debug\llamada.pdb
+C:\Users\alvar\source\repos\llamada\bin\Debug\VistaReport.dll
+C:\Users\alvar\source\repos\llamada\bin\Debug\VistaReport.pdb
+C:\Users\alvar\source\repos\llamada\bin\Debug\ModeloReport.dll
+C:\Users\alvar\source\repos\llamada\bin\Debug\ModeloReport.pdb

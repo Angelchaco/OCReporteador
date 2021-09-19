@@ -1,0 +1,5 @@
+C:\Users\alvar\source\repos\Report\ControladorReport\bin\Debug\ControladorReport.dll
+C:\Users\alvar\source\repos\Report\ControladorReport\bin\Debug\ControladorReport.pdb
+C:\Users\alvar\source\repos\Report\ControladorReport\obj\Debug\ControladorReport.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Report\ControladorReport\obj\Debug\ControladorReport.dll
+C:\Users\alvar\source\repos\Report\ControladorReport\obj\Debug\ControladorReport.pdb
