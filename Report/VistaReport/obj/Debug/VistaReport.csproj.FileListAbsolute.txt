@@ -1,0 +1,12 @@
+C:\Users\alvar\source\repos\Report\VistaReport\bin\Debug\VistaReport.dll
+C:\Users\alvar\source\repos\Report\VistaReport\bin\Debug\VistaReport.pdb
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.dll
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.pdb
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.Reporteador.resources
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.frmEliminar.resources
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Report\VistaReport\bin\Debug\ModeloReport.dll
+C:\Users\alvar\source\repos\Report\VistaReport\bin\Debug\ModeloReport.pdb
+C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.csproj.CopyComplete
