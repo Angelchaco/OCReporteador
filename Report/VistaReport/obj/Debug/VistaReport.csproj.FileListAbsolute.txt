@@ -10,3 +10,27 @@ C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.csproj.Asse
 C:\Users\alvar\source\repos\Report\VistaReport\bin\Debug\ModeloReport.dll
 C:\Users\alvar\source\repos\Report\VistaReport\bin\Debug\ModeloReport.pdb
 C:\Users\alvar\source\repos\Report\VistaReport\obj\Debug\VistaReport.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\VistaReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\VistaReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\ModeloReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\ModeloReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.frmEliminar.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.Reporteador.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.GenerateResource.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\MySqlConnector.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Buffers.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Memory.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\MySqlConnector.xml
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Buffers.xml
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Memory.xml
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Threading.Tasks.Extensions.xml

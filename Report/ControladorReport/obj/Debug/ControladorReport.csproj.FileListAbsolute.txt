@@ -3,3 +3,9 @@ C:\Users\alvar\source\repos\Report\ControladorReport\bin\Debug\ControladorReport
 C:\Users\alvar\source\repos\Report\ControladorReport\obj\Debug\ControladorReport.csproj.CoreCompileInputs.cache
 C:\Users\alvar\source\repos\Report\ControladorReport\obj\Debug\ControladorReport.dll
 C:\Users\alvar\source\repos\Report\ControladorReport\obj\Debug\ControladorReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\bin\Debug\ControladorReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\bin\Debug\ControladorReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.pdb

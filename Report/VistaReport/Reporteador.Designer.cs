@@ -37,7 +37,6 @@ namespace VistaReport
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxRuta = new System.Windows.Forms.TextBox();
             this.textBoxNombre = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -46,6 +45,8 @@ namespace VistaReport
             this.comboBoxEstado = new System.Windows.Forms.ComboBox();
             this.textBoxID = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -106,6 +107,7 @@ namespace VistaReport
             this.button5.TabIndex = 4;
             this.button5.Text = "Ver Reporte";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label1
             // 
@@ -135,15 +137,6 @@ namespace VistaReport
             this.textBoxNombre.Name = "textBoxNombre";
             this.textBoxNombre.Size = new System.Drawing.Size(255, 22);
             this.textBoxNombre.TabIndex = 7;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(12, 350);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox3.Multiline = true;
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(759, 171);
-            this.textBox3.TabIndex = 8;
             // 
             // label2
             // 
@@ -230,11 +223,23 @@ namespace VistaReport
             this.label6.Text = "ID a modificar";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(16, 347);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(760, 173);
+            this.dataGridView1.TabIndex = 17;
+            // 
             // Reporteador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(788, 532);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.textBoxID);
             this.Controls.Add(this.comboBoxEstado);
@@ -243,7 +248,6 @@ namespace VistaReport
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBoxNombre);
             this.Controls.Add(this.textBoxRuta);
             this.Controls.Add(this.label1);
@@ -255,6 +259,7 @@ namespace VistaReport
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Reporteador";
             this.Text = "Reporteador";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -270,7 +275,6 @@ namespace VistaReport
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBoxRuta;
         private System.Windows.Forms.TextBox textBoxNombre;
-        private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
@@ -279,5 +283,6 @@ namespace VistaReport
         private System.Windows.Forms.ComboBox comboBoxEstado;
         private System.Windows.Forms.TextBox textBoxID;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
