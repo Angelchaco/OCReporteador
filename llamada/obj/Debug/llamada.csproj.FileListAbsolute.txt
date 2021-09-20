@@ -14,3 +14,18 @@ C:\Users\alvar\source\repos\llamada\bin\Debug\VistaReport.dll
 C:\Users\alvar\source\repos\llamada\bin\Debug\VistaReport.pdb
 C:\Users\alvar\source\repos\llamada\bin\Debug\ModeloReport.dll
 C:\Users\alvar\source\repos\llamada\bin\Debug\ModeloReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\llamada.exe.config
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\llamada.exe
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\llamada.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\ModeloReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\VistaReport.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\CapaVista.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\ModeloReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\bin\Debug\VistaReport.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.Properties.Resources.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.csproj.GenerateResource.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.exe
+D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\llamada\obj\Debug\llamada.pdb

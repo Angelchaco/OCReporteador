@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Data.Odbc;
 
 namespace VistaReport
 {
@@ -25,27 +26,14 @@ namespace VistaReport
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ruta = textBoxCodigoElim.Text;
-            try
-            {
-                bool result = File.Exists(ruta);
-                if (result == true)
-                {
-                    MessageBox.Show("Archivo Encontrado");
-                    File.Delete(ruta);
-                    MessageBox.Show("Archivo Eliminado Exitosamente");
-                }
-                else
-                {
-                    MessageBox.Show("Archivo No Encontrado");
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error al borrar archivo: {0}", ex.ToString());
-            }
-            Console.WriteLine("Presiona Enter para terminar.");
-            var name = Console.ReadLine();
+            //where idReporte = 1;
+            clsConexion cn = new clsConexion();
+            string cadena = @"UPDATE reportes SET estado = 0 where idReporte='" + textBoxCodigoElim.Text + "'";
+            OdbcCommand consulta = new OdbcCommand(cadena, cn.conexion());
+            consulta.ExecuteNonQuery();
+            MessageBox.Show("El reporte ha sido eliminado satisfactoriamente");
+
+            this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
