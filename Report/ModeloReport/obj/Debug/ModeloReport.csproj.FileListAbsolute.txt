@@ -10,3 +10,9 @@ D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCRepor
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.csproj.CoreCompileInputs.cache
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.dll
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ModeloReport\bin\Debug\ModeloReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ModeloReport\bin\Debug\ModeloReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.csproj.AssemblyReference.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.csproj.CoreCompileInputs.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ModeloReport\obj\Debug\ModeloReport.pdb

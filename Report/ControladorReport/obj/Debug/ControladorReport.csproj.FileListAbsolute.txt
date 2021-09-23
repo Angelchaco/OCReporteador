@@ -9,3 +9,14 @@ D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCRepor
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.csproj.CoreCompileInputs.cache
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.dll
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.csproj.AssemblyReference.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.csproj.CoreCompileInputs.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\bin\Debug\ControladorReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\bin\Debug\ControladorReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\bin\Debug\ModeloReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\bin\Debug\VistaReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\bin\Debug\ModeloReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\bin\Debug\VistaReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\ControladorReport\obj\Debug\ControladorReport.csproj.CopyComplete

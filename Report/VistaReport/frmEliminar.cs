@@ -26,12 +26,12 @@ namespace VistaReport
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //where idReporte = 1;
+            /*/where idReporte = 1;
             clsConexion cn = new clsConexion();
             string cadena = @"UPDATE reportes SET estado = 0 where idReporte='" + textBoxCodigoElim.Text + "'";
             OdbcCommand consulta = new OdbcCommand(cadena, cn.conexion());
             consulta.ExecuteNonQuery();
-            MessageBox.Show("El reporte ha sido eliminado satisfactoriamente");
+            MessageBox.Show("El reporte ha sido eliminado satisfactoriamente");*/
 
             this.Close();
         }

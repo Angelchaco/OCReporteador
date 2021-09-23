@@ -7,7 +7,7 @@ using System.Data.Odbc;
 using System.Data;
 
 
-namespace VistaReport
+namespace ControladorReport
 {
     public class clsConexion
     {
