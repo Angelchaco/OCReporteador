@@ -34,3 +34,29 @@ D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCRepor
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Numerics.Vectors.xml
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\Users\Emanuel\Desktop\Analisis de sistemas\proyecto 2\codigo proyecto\OCReporteador\Report\VistaReport\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.AssemblyReference.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.frmEliminar.resources
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.Reporteador.resources
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.GenerateResource.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.CoreCompileInputs.cache
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\VistaReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\VistaReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\ControladorReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\ModeloReport.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\MySqlConnector.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Buffers.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Memory.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\ControladorReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\ModeloReport.pdb
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\MySqlConnector.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Buffers.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Memory.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jfeli\2 Fase\Pull\OCReporteador\Report\VistaReport\obj\Debug\VistaReport.csproj.CopyComplete

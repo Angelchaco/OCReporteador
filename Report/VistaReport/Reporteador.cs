@@ -12,7 +12,8 @@ using System.Data.Odbc;
 using System.IO;
 using System.Data.SqlClient;
 using MySqlConnector;
-//using ModeloReport;
+using ControladorReport;
+
 
 namespace VistaReport
 {
@@ -23,6 +24,7 @@ namespace VistaReport
         {
             InitializeComponent();
             dataGrid();
+        
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -47,29 +49,25 @@ namespace VistaReport
 
         private void button1_Click(object sender, EventArgs e)
         {
-            clsConexion cn = new clsConexion();
-            string Vis = "Visible";
-            int estado;
+            Botones bt = new Botones();
+            
+            string[] datos_guard = { textBoxNombre.Text,textBoxRuta.Text, textBoxDepartamento.Text, comboBoxEstado.Text, textBoxID.Text };
 
-            if(comboBoxEstado.Text == Vis)
-            {
-                estado = 1;
-            }
-            else
-            {
-                estado = 0;
-            }
 
-            /*UPDATE agenda
-  SET telefono = '662142223', email = 'albesanch@mimail.com'
-  WHERE nombre = 'Alberto Sanchez'*/
+            
+            for (int i=0; i<=4; i++) {
+                bt.Guardar(datos_guard[i]);
+            }
+            
+          
+            
+
+     
 
             //string cadena = "UPDATE reportes SET nombreReporte='" + textBoxNombre.Text + "', rutaReporte='" + textBoxRuta.Text + "', Departamento='" + textBoxDepartamento.Text + "', estado='" + est
-            string cadena = @"UPDATE reportes SET nombreReporte='" +textBoxNombre.Text+@"', rutaReporte='" + textBoxRuta.Text + "', Departamento='" + textBoxDepartamento.Text + "', estado='"+ estado+ "' where idReporte='"+textBoxID.Text+"'";
+           
                 //@"VALUES ('"+ textBoxNombre+"' , '"+textBoxRuta+"','"+textBoxDepartamento+"','"+estado+"');";
-            OdbcCommand consulta = new OdbcCommand(cadena, cn.conexion());
-            consulta.ExecuteNonQuery();
-            MessageBox.Show("Guardado");
+          
 
             cleanTextBox();
             desactivarTextBox();
@@ -150,6 +148,11 @@ namespace VistaReport
         private void button5_Click(object sender, EventArgs e)
         {
             dataGrid();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
